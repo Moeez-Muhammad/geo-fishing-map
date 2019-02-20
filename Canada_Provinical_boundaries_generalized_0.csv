@@ -1,0 +1,14 @@
+﻿FID,OBJECTID,type,type_en,postal,Shape_Leng,Shape_Area,Name_EN,Nom_Fr,Percentage of Fisheries
+1,2,Province,Province,MB,7174885.014,1.98739E+12,Manitoba,Manitoba,
+2,3,Province,Province,SK,6105908.85,1.93626E+12,Saskatchewan,Saskatchewan,
+3,4,Province,Province,AB,6480083.908,2.04615E+12,Alberta, ,
+4,5,Province,Province,BC,29959143.78,2.86411E+12,British Columbia,Colombie-Britannique,
+5,6,Territoire,Territory,NU,271097284.8,2.27018E+13,Nunavut,Nunavut,
+6,7,Territoire,Territory,NT,53788782.64,8.75924E+12,Northwest Territories,Territoires du Nord-Ouest,
+7,8,Territoire,Territory,YT,9703122.354,2.4723E+12,Yukon,Yukon,
+8,9,Province,Province,ON,9645718.43,2.63417E+12,Ontario,Ontario,
+9,10,Province,Province,QC,28578078.94,4.29685E+12,Quebec,Québec,7.60
+10,11,Province,Province,NB,3044798.037,1.54162E+11,New Brunswick,Nouveau-Brunswick,17.26
+11,12,Province,Province,NS,5853202.268,1.10845E+11,Nova Scotia,Nouvelle-Écosse,38.60
+12,13,Province,Province,NL,29391648.71,1.11302E+12,Newfoundland and Labrador,Terre-Neuve-et-Labrador,21.16
+13,14,Province,Province,PE,1334823.609,12051463223,Prince Edward Island,|Île du Prince-Édouard,15.37
